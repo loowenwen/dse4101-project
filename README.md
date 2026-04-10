@@ -2,7 +2,6 @@
 
 ## Overview
 This repository implements a PCA-based anomaly detection framework for stablecoin depegging.  
-It extracts latent factors and detects instability via z-score deviations.
 
 ---
 
